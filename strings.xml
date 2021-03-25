@@ -1,0 +1,154 @@
+<resources>
+    <string name="app_name">CEN MOBILE APP ASSIGNMENT</string>
+    <string name="tab_text_1">ABOUT APP</string>
+    <string name="tab_text_2">DATA VISUALIZATION</string>
+    <string name="tab_text_3">ABOUT ME</string>
+    <string name="coll">STATES</string>
+    <string name="coll2">2018 UNEMPLOYMENT RATE</string>
+    <string name="row1state">ABIA</string>
+    <string name="row1FAAC">31.6%
+</string>
+    <string name="row2state">ADAMAWA</string>
+    <string name="row2FAAC">20.8%
+
+</string>
+    <string name="row3state">AKWA IBOM</string>
+    <string name="row3FAAC">37.7%
+
+</string>
+    <string name="row4state">ANAMBRA</string>
+    <string name="row4FAAC">17.5%
+
+</string>
+    <string name="row5state">BAUCHI</string>
+    <string name="row5FAAC">23.5%
+
+</string>
+    <string name="row6state">BAYELSA</string>
+    <string name="row6FAAC">32.6%
+
+</string>
+    <string name="row7state">BENUE</string>
+    <string name="row7FAAC">20.1%
+
+</string>
+    <string name="row8state">BORNO</string>
+    <string name="row8FAAC">31.4%
+
+</string>
+    <string name="row9state">CROSS RIVER</string>
+    <string name="row9FAAC">30.6%
+
+</string>
+    <string name="row10state">DELTA</string>
+    <string name="row10FAAC">25.4%
+
+</string>
+    <string name="row11state">EBONYI</string>
+    <string name="row11FAAC">21.1%
+
+</string>
+    <string name="row12state">EDO</string>
+    <string name="row12FAAC">25.1%
+
+</string>
+    <string name="row13state">EKITI</string>
+    <string name="row13FAAC">20.2%
+
+</string>
+    <string name="row14state">ENUGU</string>
+    <string name="row14FAAC">18.7%
+
+</string>
+    <string name="row15state">GOMBE</string>
+    <string name="row15FAAC">27.0%
+
+</string>
+    <string name="row16state">IMO</string>
+    <string name="row16FAAC">28.2%
+
+</string>
+    <string name="row17state">JIGAWA</string>
+    <string name="row17FAAC">26.5%
+
+</string>
+    <string name="row18state">KADUNA</string>
+    <string name="row18FAAC">26.8%
+
+</string>
+    <string name="row19state">KANO</string>
+    <string name="row19FAAC">31.3%
+
+</string>
+    <string name="row20state">KATSINA</string>
+    <string name="row20FAAC">14.3%
+
+</string>
+    <string name="row21state">KEBBI</string>
+    <string name="row21FAAC">20.1%
+
+</string>
+    <string name="row22state">KOGI</string>
+    <string name="row22FAAC">19.7%
+
+</string>
+    <string name="row23state">KWARA</string>
+    <string name="row23FAAC">21.1%
+
+</string>
+    <string name="row24state">LAGOS</string>
+    <string name="row24FAAC">14.6%
+
+</string>
+    <string name="row25state">NASARAWA</string>
+    <string name="row25FAAC">27.4%
+
+</string>
+    <string name="row26state">NIGER</string>
+    <string name="row26FAAC">20.9%
+
+</string>
+    <string name="row27state">OGUN</string>
+    <string name="row27FAAC">16.4%
+
+</string>
+    <string name="row28state">ONDO</string>
+    <string name="row28FAAC">14.2%
+
+</string>
+    <string name="row29state">OSUN</string>
+    <string name="row29FAAC">10.1%
+
+</string>
+    <string name="row30state">OYO</string>
+    <string name="row30FAAC">10.3%
+
+</string>
+    <string name="row31state">PLATEAU</string>
+    <string name="row31FAAC">29.8%
+</string>
+    <string name="row32state">RIVERS</string>
+    <string name="row32FAAC">36.4%
+
+</string>
+    <string name="row33state">SOKOTO</string>
+    <string name="row33FAAC">26.0%
+
+</string>
+    <string name="row34state">TARABA</string>
+    <string name="row34FAAC">19.0%
+
+</string>
+    <string name="row35state">YOBE</string>
+    <string name="row35FAAC">29.0%
+
+</string>
+    <string name="row36state">ZAMFARA</string>
+    <string name="row36FAAC">18.0%
+
+</string>
+    <string name="row37state">FCT</string>
+    <string name="row37FAAC">24.4%
+
+</string>
+</resources>
